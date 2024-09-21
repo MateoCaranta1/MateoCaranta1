@@ -67,7 +67,7 @@ Estoy disponible para prácticas, pasantías o cualquier oportunidad que me perm
 <hr width="60%" >
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mateo-caranta-4175a9296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mateo-caranta-4175a9296/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 
 </p>
 <br>
