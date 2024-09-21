@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h2>Sobre Mi:</h2>
+<h2>Sobre Mi 💻📚:</h2>
 <p>Tengo 21 años y me apasiona la programación. Actualmente me encuentro cursando el último cuatrimestre de la Tecnicatura Universitaria en Programación en la UTN de Rosario. 
 Tengo conocimientos en HTML, CSS, React, Tailwind CSS, Bootstrap y .NET. Busco insertarme en el mercado laboral para ganar experiencia tanto en las tecnologías que ya domino como en aquellas que aún no conozco, ya que lo considero como un desafío que me gustaria superar. Además estoy interesado en participar en proyectos que me permitan mejorar mis habilidades y trabajar en equipo.
 Estoy disponible para prácticas, pasantías o cualquier oportunidad que me permita crecer profesionalmente y aportar mis conocimientos.</p>
@@ -14,7 +14,7 @@ Estoy disponible para prácticas, pasantías o cualquier oportunidad que me perm
 
 
 <br>
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h3 align="left">Lenguajes y herramientas 🛠️:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -46,7 +46,7 @@ Estoy disponible para prácticas, pasantías o cualquier oportunidad que me perm
 
 
 <br>
-<h3 align="left">Aprendiendo:</h3>
+<h3 align="left">Aprendiendo 👨‍💻:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p><br>
  
 <hr width="36%" >
