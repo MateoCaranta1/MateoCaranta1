@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 Actualmente estoy cursando el úlitmo cuatrimestre de la **Tecnicatura Universitaria en Programación**
+<h2>Sobre Mi:</h2>
+<p>Tengo 21 años y me apasiona la programación. Actualmente me encuentro cursando el último cuatrimestre de la Tecnicatura Universitaria en Programación en la UTN de Rosario. 
+Tengo conocimientos en HTML, CSS, React, Tailwind CSS, Bootstrap y .NET. Busco insertarme en el mercado laboral para ganar experiencia tanto en las tecnologías que ya domino como en aquellas que aún no conozco, ya que lo considero como un desafío que me gustaria superar. Además estoy interesado en participar en proyectos que me permitan mejorar mis habilidades y trabajar en equipo.
+Estoy disponible para prácticas, pasantías o cualquier oportunidad que me permita crecer profesionalmente y aportar mis conocimientos.</p>
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
