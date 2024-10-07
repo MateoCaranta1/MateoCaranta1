@@ -56,7 +56,8 @@ Estoy disponible para prácticas, pasantías o cualquier oportunidad que me perm
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MateoCaranta1&show_icons=true&theme=dark&locale=en&layout=compact"  /></p>
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=MateoCaranta1&show_icons=true&theme=dark&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCaranta1&layout=compact&langs_count=10&theme=dark
+)"  /></p>
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MateoCaranta1&show_icons=true&theme=dark&locale=en"  /></p>
