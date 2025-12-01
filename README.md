@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mí
 
-- 🎓 Formado como **Técnico Universitario en Programación** en la Universidad Técnologica Nacional. 
+- 🎓 Formado como **Técnico Universitario en Programación** en la Universidad Técnologica Nacional (*UTN*). 
 - ⚙️ Experiencia en proyectos personales con **.NET 8**, **Node.js**, **React**, y **Tailwind CSS**.
 - 🧩 Me interesa el desarrollo **Fullstack** y el diseño de **arquitecturas limpias y escalables**. 
 - 📚 En constante aprendizaje — siempre busco mejorar mis habilidades y probar nuevas tecnologías.
