@@ -9,7 +9,8 @@
 ## 🧠 Sobre mí
 
 - 🎓 Formado como **Técnico Universitario en Programación** en la Universidad Técnologica Nacional (*UTN*). 
-- ⚙️ Experiencia en proyectos personales con **.NET 8**, **Node.js**, **React**, y **Tailwind CSS**.
+- 📚 Estudiando la carrera de **Analista Universitario en Sistemas** En la Universidad Nacional de Rosario (*UNR*).
+- ⚙️ Experiencia en proyectos personales con **Python, .NET 8**, **Node.js**, **React**, y **Tailwind CSS**.
 - 🧩 Me interesa el desarrollo **Fullstack** y el diseño de **arquitecturas limpias y escalables**. 
 - 📚 En constante aprendizaje — siempre busco mejorar mis habilidades y probar nuevas tecnologías.
 - 💬 Me gusta trabajar en equipo, compartir ideas y aprender de los demás.
@@ -24,12 +25,14 @@
 - Python
 - Express.js
 - JWT Authentication
-- MongoDB / SQL Server
 
 ### 🌐 Frontend
 - React.js
 - Tailwind CSS
-- HTML5 / CSS3 / JavaScript (ES6+)
+- HTML5 / CSS3
+
+## Bases de datos
+- MySQL
 
 ### ⚙️ Herramientas & Otros
 - Git / GitHub
