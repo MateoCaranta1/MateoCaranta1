@@ -2,7 +2,6 @@
 
 💻 **Técnico Universitario en Programación**  
 🚀 Apasionado por el desarrollo de software, la arquitectura limpia y la creación de soluciones eficientes.  
-🎯 Actualmente en busca de **mi primera experiencia laboral en IT** para seguir aprendiendo y creciendo como desarrollador.
 
 ---
 
