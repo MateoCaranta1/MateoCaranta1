@@ -9,7 +9,7 @@
 ## 🧠 Sobre mí
 
 - 🎓 Formado como **Técnico Universitario en Programación** en la Universidad Técnologica Nacional (*UTN*). 
-- 📚 Estudiando la carrera de **Analista Universitario en Sistemas** En la Universidad Nacional de Rosario (*UNR*).
+- 📚 Estudiando la carrera de **Licenciatura en Ciencia de Datos** En la Universidad del Gran Rosario (*UGR*).
 - ⚙️ Experiencia en proyectos personales con **Python, .NET 8**, **Node.js**, **React**, y **Tailwind CSS**.
 - 🧩 Me interesa el desarrollo **Fullstack** y el diseño de **arquitecturas limpias y escalables**. 
 - 📚 En constante aprendizaje — siempre busco mejorar mis habilidades y probar nuevas tecnologías.
